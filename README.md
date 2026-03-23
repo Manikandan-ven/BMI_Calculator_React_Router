@@ -1,5 +1,5 @@
 # Ex06 BMI Calculator
-## Date: 18/03/2026
+## Date: 23/03/2026
 
 ```
 Name : MANIKANDAN V
